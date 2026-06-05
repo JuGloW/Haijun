@@ -1,0 +1,6 @@
+﻿*
+!.gitignore
+!README.md
+!DESCRIPTION.txt
+!docs/
+!docs/PUBLIC_SCOPE.md
